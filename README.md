@@ -3,8 +3,8 @@
 Author: Ankush Mallick <br>
 Task No.: 02 <br>
 Task Name: Clustering using Unsupervised Machine Learning(ML) <br>
-Language - Python <br>
-IDE - Jupyter Notebook <br>
+Language: Python <br>
+IDE: Jupyter Notebook <br>
 Dataset Link: https://bit.ly/3kXTdox <br>
 <br>
 My Info: <br>
@@ -14,4 +14,4 @@ GitHub Profile Link: https://github.com/ankushmallick1100 <br>
 GitHub Repository Link: https://github.com/ankushmallick1100/Task-2-The-sparks-Foundation-Data-Science-and-Business-Analytics-Internship- <br>
 YouTube Video Link: https://youtu.be/aRfZhj2I0kU <br>
 <br>
-Visit The Sparks Foundation Website: https://internship.thesparksfoundation.info/
+Visit The Sparks Foundation Website: https://internship.thesparksfoundation.info
