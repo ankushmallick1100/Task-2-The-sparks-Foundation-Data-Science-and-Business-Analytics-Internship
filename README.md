@@ -2,7 +2,7 @@
 <br>
 Author: Ankush Mallick <br>
 Task No.: 02 <br>
-Task Name: Clustering using Unsupervised Machine Learning(ML) <br>
+Task Name: Clustering using Unsupervised Machine Learning <br>
 Language: Python <br>
 IDE: Jupyter Notebook <br>
 Dataset Link: https://bit.ly/3kXTdox <br>
